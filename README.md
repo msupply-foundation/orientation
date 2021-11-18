@@ -21,3 +21,4 @@ We have one mandatory full-team meeting - Monday standup at 10am. You'll have a 
 Don't worry about filling it in for your first week - we'll use it as an opportunity to introduce you and say hi! 
 
 ![This is a cat on a mac](https://github.com/sussol/orientation/blob/main/Images/cat.jpeg "Meow")
+![This is us saying you've got this](https://github.com/sussol/orientation/blob/main/orientation/Images/you_got_this.gif)
