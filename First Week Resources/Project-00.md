@@ -15,4 +15,4 @@ Here's where we hope you'll get to by the end of your first week here!
 * Sussol NZ people: chatted with ✅
 * Met at least one of the team outside of NZ! ✅
 * Have some idea of the company ethos and history ✅
-* Tools (github, google drive) set up and ready to use ✅
+* Tools (github, google drive, calendar) set up and ready to use ✅
