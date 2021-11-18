@@ -19,3 +19,5 @@ This is your jumping off point to get you up and running with your work in Susso
 We have one mandatory full-team meeting - Monday standup at 10am. You'll have a slide on our [stand-up slides](https://docs.google.com/presentation/d/1n1OHsJlgqrVpCU6_5LdlThO33xgtUGFk2tpgFC9a3Vg/edit) that will need to be updated every week with what you've worked on in the last week, and what you plan to do in the next. 
 
 Don't worry about filling it in for your first week - we'll use it as an opportunity to introduce you and say hi! 
+
+![This is a cat on a mac](https://github.com/sussol/orientation/blob/main/Images/cat.jpeg "Meow")
