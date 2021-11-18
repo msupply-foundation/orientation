@@ -3,7 +3,7 @@
 ## In Use 
 ### mSupply 
 **Type**: Licensed  
-**Repo**: [unified-codes](https://github.com/sussol/msupply)
+**Repo**: [mSupply](https://github.com/sussol/msupply)
 
 [mSupply](https://msupply.org.nz/) is an electronic Logistics Management Information System (eLMIS) for health supply chains in low- and middle-income countries, with deployments in over 30 countries across the Pacific, Asia and Africa. 
 
@@ -12,13 +12,13 @@ At the heart of mSupply is an inventory control system which records each receip
 mSupply is designed to work in limited-resource settings, allowing users to continue working seamlessly in environments with intermittent power and internet connections. It is available in both desktop and mobile versions, and can be configured or customised to meet local health system requirements.
 
 ### mSupply Mobile 
-**Type**: Open Source 
+**Type**: Open Source <br />
 **Repo**: [openmsupply/mobile](https://github.com/openmsupply/mobile)
 
 A user-friendly, offline-first mobile app for use with mSupply
 
 ### Universal Codes Server 
-**Type**: Open Source 
+**Type**: Open Source <br />
 **Repo**: [openmsupply/unified-codes](https://github.com/openmsupply/unified-codes)
 
 The [Universal Codes Server](https://codes.msupply.foundation/) is a system for linking country-specific codes for medicines and consumables in mSupply to a set of standard ‘universal’ codes. Once linked, countries will have access to an item’s clinical category, drug interactions and reference pricing for procurement activities. This important data is sourced from other international coding systems and references including the WHO Model Essential Medicines List, NZULM, RxNav and UNSPC, and will allow for regional reporting and cross-country supply chain activities to occur.
@@ -32,8 +32,8 @@ The following external system codes have been linked to the Universal Code Serve
 
 ## Currently Working On 
 ###  Open mSupply
-**Type**: Open Source 
-**Frontend Repo**: [openmsupply/openmsupply-client](hhttps://github.com/openmsupply/remote-server)
+**Type**: Open Source<br />
+**Frontend Repo**: [openmsupply/openmsupply-client](https://github.com/openmsupply/remote-server)<br />
 **Backend Repo**: [openmsupply/remote-server](https://github.com/openmsupply/openmsupply-client)
 
 
