@@ -9,6 +9,7 @@ This is your jumping off point to get you up and running with your work in Susso
 ## Your first day
 
 * Read the Sussol [code of ethics](https://wiki.sussol.net/doku.php/policy:ssnz:code_of_ethics). Chat with Tony/Dhanya if you have any questions about company norms or would like to add or change anything in the code of conduct.
+* Sign your contract if you haven't already :) 
 * Get your laptop set up. 
 * Get [telegram](https://telegram.org/)! We use this for all company communication.  
 * Ask Dhanya to invite you to join the relevant telegram groups. 
