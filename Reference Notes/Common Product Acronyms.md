@@ -4,7 +4,7 @@ Some abbreviations often used for projects and software (link to what we're work
 
 |**Acronym**|**What is it?**|
 |--|--|
-| CCE | Cold Chain ... something (https://github.com/openmsupply/msupply-cold-chain) |
+| CCE | Cold Chain Equipment (https://github.com/openmsupply/msupply-cold-chain) |
 | IRIMS | Application Manager (pending a rename?) |
 | MW | Moneyworks |
 | omSupply | Open mSupply |

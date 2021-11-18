@@ -1,6 +1,6 @@
 # What We Make 👩🏽‍💻
 
-## In Use 
+## In Use 🌎
 ### mSupply 
 **Type**: Licensed  
 **Repo**: [mSupply](https://github.com/sussol/msupply)
@@ -30,7 +30,7 @@ The following external system codes have been linked to the Universal Code Serve
 * UNSPC: United Nations Standard Products and Services Codes are the sanctioned coding system used by the UN.
 
 
-## Currently Working On 
+## Currently Working On 👷🏽
 ###  Open mSupply
 **Type**: Open Source<br />
 **Frontend Repo**: [openmsupply/openmsupply-client](https://github.com/openmsupply/remote-server)<br />
