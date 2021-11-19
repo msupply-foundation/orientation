@@ -8,7 +8,7 @@ These are just some suggestions to help get you started. We understand that apps
   * [Bitwarden Browser Extension](https://bitwarden.com/download/)  
 * We generally use VS Code for non 4D development 
   * [VS Code](https://code.visualstudio.com/)
-* We use [GitHub] for our SCM, so we recommend a client of some sort (unless you prefer the CLI!)
+* We use [GitHub](https://github.com/) for our SCM, so we recommend a client of some sort (unless you prefer the CLI!)
   * [GitHub Desktop](https://desktop.github.com/) 
 * We often use zoom for virtual meetings, hence this recommendation!
   * [Zoom](https://zoom.us/download)
