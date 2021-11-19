@@ -12,3 +12,5 @@ These are just some suggestions to help get you started. We understand that apps
   * [GitHub Desktop](https://desktop.github.com/) 
 * We often use zoom for virtual meetings, hence this recommendation!
   * [Zoom](https://zoom.us/download)
+* We pretty much use Telegram for all virtual communications (work and non work discussions)
+  * [Telegram](https://telegram.org/) 
