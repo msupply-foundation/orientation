@@ -1,4 +1,8 @@
 # JS and ReactJS resources 
+This is intended to be consumed from top to bottom, starting with JavaScript (often abbreviated to just 'JS') and followed up with ReactJS.
+
+Assumed knowledge: That you have experience programming and have core principles fairly ingrained.
+
 ## JavaScript
 ### Tutorials
 
@@ -10,9 +14,9 @@
 * [Mozilla Development Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference). The ultimate source for JS language specifications.
 
 ## ReactJS
-* [[https://www.syncano.io/blog/reactjs-reasons-why-part-1/|A good, short blog post on what ReactJS is and why it is great.]]
-* [[https://facebook.github.io/react/docs/installation.html|The Official React Documention Quick Start]] is an excellent starting point that covers all the react principles, from installing react and starting a project, how react components work to how design react code structures.
-* [[https://egghead.io/lessons/react-hello-world-first-component|This Egghead course]] gives an excellent walkthrough that is concise and informative.
+* [A good, short blog post on what ReactJS is and why it is great.](https://www.syncano.io/blog/reactjs-reasons-why-part-1/)
+* [The Official React Documention Quick Start](https://facebook.github.io/react/docs/installation.html) is an excellent starting point that covers all the react principles, from installing react and starting a project, how react components work to how design react code structures.)
+* [This Egghead course](https://egghead.io/lessons/react-hello-world-first-component) gives an excellent walkthrough that is concise and informative.)
 
 ### FlexBox
 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) is a CSS tool for defining dynamic sizing and arrangement in interfaces that respond well to screen/window size changes.
@@ -33,7 +37,7 @@ It is a more advanced topic that has a bit of a learning curve, but once underst
 [JS.Coach](https://js.coach/react) is a good opinionated place to explore NPM packages, with better potential for finding powerful gems (that you may have missed directly in NPM or Google).
 
 ### Coding Style
-We aim to use the latest Javascript language features in this repository. They are ever evolving, so keep learning and make the case to support new features if it makes our code easier.
+We aim to use the latest Javascript language features in many of our repositories. They are ever evolving, so keep learning and make the case to support new features if it makes our code easier.
 
 This repository has [eslint](https://eslint.org/) rules configured that should help detect mistakes be it invalid code, or breaking style rules.
 
