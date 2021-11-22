@@ -11,3 +11,6 @@ E-book versions of these are available on [Google Drive](https://drive.google.co
 
 ## Documentation
 * [Official Rust Documentation](https://www.rust-lang.org/learn)
+
+## Finding Packages
+* A crate in Rust is synonymous with a 'library' or 'package' in other languages. They are searchable and available at https://crates.io/
