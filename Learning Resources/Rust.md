@@ -10,4 +10,4 @@ E-book versions of these are available on [Google Drive](https://drive.google.co
 * First 4 chapters of Rust in Action
 
 ## Documentation
-* [Official Rust Documentatio](https://www.rust-lang.org/learn)
+* [Official Rust Documentation](https://www.rust-lang.org/learn)
