@@ -17,4 +17,4 @@ At this stage, as a graduate, I want to upgrade my skills and engage more in a s
 I want to solve the problem of sleeping too much. Rather than sleeping, there are many other interesting things I could do. But I can't help sleeping due to the genes (probably). 
 
 ## My profile
-![Ming is having a good time while picking strawberries in the summertime.](https://github.com/sussol/orientation/blob/main/Images/Ming's profile.JPG)
+![Ming is having a good time while picking strawberries in the summertime.](https://github.com/openmsupply/orientation/blob/Ming/Images/Ming's%20profile.JPG)
