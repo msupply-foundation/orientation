@@ -2,7 +2,7 @@
 # Ming's Introduction 
 
 ## About me
-I was born in China and lived in Guangzhou for 17 years. Then I came to New Zealand all alone to have some different experiences. I lived with my aunty\'92s family in Wellington for two years. I went to high school in Wellington and started my university in Auckland. 
+I was born in China and lived in Guangzhou for 17 years. Then I came to New Zealand all alone to have some different experiences. I lived with my aunty's family in Wellington for two years. I went to high school in Wellington and started my university in Auckland. 
 
 ## My favourite hobbies
 I dance in my spare time. Sometimes I learn by myself, and sometimes I go to the dance studio. I like hanging around with people in the dance studio. I play badminton for fun and competition. Also, I like travelling with my friends. It is great to catch up with old friends and enjoy life with them. 
