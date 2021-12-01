@@ -1,7 +1,7 @@
 # Roxy's Introduction
 
 ## About me
-I'm going into my 3rd year BCIS student at AUT majoring in software development. I was born in Vietnam, but grew up in NZ and have worked in Japan before for a few years. I love learning about different cultures and travelling to different countries, oh, and also eating! Cat or dog persons~? Dogs /o/
+I'm going into my 3rd year BCIS student at AUT majoring in software development. I was born in Vietnam, but grew up in NZ and have worked in Japan before for a few years. I love learning about different cultures and travelling to different countries, oh, and also eating! Cat or dog person~? Dogs /o/
 
 ## Things I like to do outside of work
 Explore, read and game.
