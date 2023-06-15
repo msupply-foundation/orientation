@@ -1,9 +1,7 @@
 # What We Make 👩🏽‍💻
-
-## In Use 🌎
-### mSupply 
+## mSupply
 **Type**: Licensed  
-**Repo**: [mSupply](https://github.com/sussol/msupply)
+**Repo**: [mSupply](https://github.com/openmsupply/msupply)
 
 [mSupply](https://msupply.org.nz/) is an electronic Logistics Management Information System (eLMIS) for health supply chains in low- and middle-income countries, with deployments in over 30 countries across the Pacific, Asia and Africa. 
 
@@ -11,13 +9,13 @@ At the heart of mSupply is an inventory control system which records each receip
 
 mSupply is designed to work in limited-resource settings, allowing users to continue working seamlessly in environments with intermittent power and internet connections. It is available in both desktop and mobile versions, and can be configured or customised to meet local health system requirements.
 
-### mSupply Mobile 
+## mSupply Mobile
 **Type**: Open Source <br />
 **Repo**: [openmsupply/mobile](https://github.com/openmsupply/mobile)
 
 A user-friendly, offline-first mobile app for use with mSupply
 
-### Universal Codes Server 
+## Universal Codes Server
 **Type**: Open Source <br />
 **Repo**: [openmsupply/unified-codes](https://github.com/openmsupply/unified-codes)
 
@@ -30,14 +28,17 @@ The following external system codes have been linked to the Universal Code Serve
 * UNSPC: United Nations Standard Products and Services Codes are the sanctioned coding system used by the UN.
 
 
-## Currently Working On 👷🏽
-###  Open mSupply
+##  Open mSupply
 **Type**: Open Source<br />
 **Frontend Repo**: [openmsupply/openmsupply-client](https://github.com/openmsupply/remote-server)<br />
 **Backend Repo**: [openmsupply/remote-server](https://github.com/openmsupply/openmsupply-client)
 
+An open source rebuild of mSupply, in a modern stack (Rust and Typescript) and with the intent of improving the intuitivity of use from the original mSupply.
 
-### Supplier Hub 
-The Supplier Hub will be a central, digital space for countries to liaise with pharmaceutical suppliers for procurement-related activities. It will sync with the Tender Module in mSupply for seamless management of tenders and will include a price-sharing tool displaying the PHARMAC-subsidised price for each item as a regional benchmark. This will help flag when countries are paying excessive prices for items and aim to reduce those occurrences. The Supplier Hub is currently in development.
+
+## Health Supply Hub
+**Repo**: [openmsupply/health-supply-hub](https://github.com/openmsupply/health-supply-hub)
+
+Health Supply Hub is a central, digital space for countries to liaise with pharmaceutical suppliers for procurement-related activities. It syncs with the Tender Module in mSupply for seamless management of tenders and will include a price-sharing tool displaying the PHARMAC-subsidised price for each item as a regional benchmark. This will help flag when countries are paying excessive prices for items and aim to reduce those occurrences. The Health Supply Hub is currently in development.
 
 The COVID-19 pandemic has illustrated how valuable such a system will be, as simple information on availability of essential medicines from regional suppliers was both valuable and hard to obtain during the year.

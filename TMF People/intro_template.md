@@ -11,5 +11,5 @@ Remember the good old days, fix cars, fight crime
 
 ## A picture for the website (does not have to be black and white)
 
-![A picture of Tony, smiling, in black and white](https://github.com/sussol/orientation/blob/main/Images/tony_is_a_star.png)
+![A picture of Tony, smiling, in black and white](https://github.com/openmsupply/orientation/blob/main/Images/tony_is_a_star.png)
 
