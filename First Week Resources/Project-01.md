@@ -1,14 +1,14 @@
 # Introducing 👋🏼
 
 * **Goal**: Introduce yourself
-* **Timeline**: Within the first week of you joining Sussol
+* **Timeline**: Within the first week of you joining The mSupply Foundation
 * **Length**: Approximately 300 words
 
 The goal of this blogging project is to introduce yourself, and get used to using Github and PRs! 
 
 The brief is very simple: **write a little about yourself**.
 
-We have a template [here](https://github.com/sussol/orientation/blob/main/Sussol%20People/intro_template.md) that you can use as a start but you are welcome to add anything you like! 
+We have a template [here](https://github.com/openmsupply/orientation/blob/main/TMF%20People/intro_template.md) that you can use as a start but you are welcome to add anything you like! 
 
 Some optional topics for you to add:
 

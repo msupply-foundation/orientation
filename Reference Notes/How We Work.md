@@ -12,7 +12,7 @@ Make sure you complete your timesheet in [our accounting app](https://accounts.m
 Please record a short description of the activities you worked on for each time entry (this is for contract purposes in case we get audited!). 
 All your initial hours will be under the AA-Nonbill jobcode. As you start working on specific projects, you'll begin using different job codes. 
 
-You’ll receive your payslip by email each month.
+You’ll receive your payslip by email each fortnight.
 
 
 ## Leave 🏄‍♀️

@@ -3,7 +3,7 @@
 ## In Use 🌎
 ### mSupply 
 **Type**: Licensed  
-**Repo**: [mSupply](https://github.com/sussol/msupply)
+**Repo**: [mSupply](https://github.com/openmsupply/msupply)
 
 [mSupply](https://msupply.org.nz/) is an electronic Logistics Management Information System (eLMIS) for health supply chains in low- and middle-income countries, with deployments in over 30 countries across the Pacific, Asia and Africa. 
 
@@ -37,7 +37,9 @@ The following external system codes have been linked to the Universal Code Serve
 **Backend Repo**: [openmsupply/remote-server](https://github.com/openmsupply/openmsupply-client)
 
 
-### Supplier Hub 
-The Supplier Hub will be a central, digital space for countries to liaise with pharmaceutical suppliers for procurement-related activities. It will sync with the Tender Module in mSupply for seamless management of tenders and will include a price-sharing tool displaying the PHARMAC-subsidised price for each item as a regional benchmark. This will help flag when countries are paying excessive prices for items and aim to reduce those occurrences. The Supplier Hub is currently in development.
+### Health Supply Hub 
+**Repo**: [openmsupply/health-supply-hub](https://github.com/openmsupply/health-supply-hub)
+
+Health Supply Hub will be a central, digital space for countries to liaise with pharmaceutical suppliers for procurement-related activities. It will sync with the Tender Module in mSupply for seamless management of tenders and will include a price-sharing tool displaying the PHARMAC-subsidised price for each item as a regional benchmark. This will help flag when countries are paying excessive prices for items and aim to reduce those occurrences. The Health Supply Hub is currently in development.
 
 The COVID-19 pandemic has illustrated how valuable such a system will be, as simple information on availability of essential medicines from regional suppliers was both valuable and hard to obtain during the year.
