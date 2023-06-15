@@ -36,10 +36,12 @@ The following external system codes have been linked to the Universal Code Serve
 **Frontend Repo**: [openmsupply/openmsupply-client](https://github.com/openmsupply/remote-server)<br />
 **Backend Repo**: [openmsupply/remote-server](https://github.com/openmsupply/openmsupply-client)
 
+An open source rebuild of mSupply, in a modern stack (Rust and Typescript) and with the intent of improving the intuitivity of use from the original mSupply.
+
 
 ### Health Supply Hub 
 **Repo**: [openmsupply/health-supply-hub](https://github.com/openmsupply/health-supply-hub)
 
-Health Supply Hub will be a central, digital space for countries to liaise with pharmaceutical suppliers for procurement-related activities. It will sync with the Tender Module in mSupply for seamless management of tenders and will include a price-sharing tool displaying the PHARMAC-subsidised price for each item as a regional benchmark. This will help flag when countries are paying excessive prices for items and aim to reduce those occurrences. The Health Supply Hub is currently in development.
+Health Supply Hub is a central, digital space for countries to liaise with pharmaceutical suppliers for procurement-related activities. It syncs with the Tender Module in mSupply for seamless management of tenders and will include a price-sharing tool displaying the PHARMAC-subsidised price for each item as a regional benchmark. This will help flag when countries are paying excessive prices for items and aim to reduce those occurrences. The Health Supply Hub is currently in development.
 
 The COVID-19 pandemic has illustrated how valuable such a system will be, as simple information on availability of essential medicines from regional suppliers was both valuable and hard to obtain during the year.
