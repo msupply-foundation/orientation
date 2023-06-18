@@ -14,7 +14,7 @@ This is your jumping off point to get you up and running with your work at The m
 * Get [Telegram](https://telegram.org/)! We use this for all company communication.  
 * Ask Dhanya to invite you to join the relevant telegram groups. 
 * Get your email client set up - we each have a yourname@msupply.foundation email, and a yourname@sussol.net email. You will only need to set up your email client to deal with the `msupply.foundation` email, as all `sussol.net` emails are forwarded on to this email. 
-* Add yourself to our shared [TMF Event Calendar](https://calendar.google.com/calendar/u/1?cid=bXN1cHBseS5mb3VuZGF0aW9uXzQ5NXE0MTFpcDMyZWtzOXAydGU2cGVqbmJjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) and [TMF Non-Availability Calendar](https://calendar.google.com/calendar/u/1?cid=bXN1cHBseS5mb3VuZGF0aW9uX29qbzZpcmZnY2lybTFyOGg0ZGJwMGRsMjYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)🗓. The event calendar is where we track all meetings and upcoming things, and the non-availability one is where we track holidays. 
+* Add yourself to our shared [TMF Event Calendar](https://calendar.google.com/calendar/u/1?cid=bXN1cHBseS5mb3VuZGF0aW9uXzQ5NXE0MTFpcDMyZWtzOXAydGU2cGVqbmJjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) and [TMF Non-Availability Calendar](https://calendar.google.com/calendar/u/1?cid=bXN1cHBseS5mb3VuZGF0aW9uX29qbzZpcmZnY2lybTFyOGg0ZGJwMGRsMjYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)🗓. The event calendar is where we track all meetings and upcoming things, and the non-availability one is where we track time when you will not be available. 
 * This week, we'll go through some of the resources and intro tasks in the First Week Resources folder. 
 
 ## TMF meetings
