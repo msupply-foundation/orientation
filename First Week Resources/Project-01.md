@@ -19,5 +19,5 @@ Some optional topics for you to add:
 **You don't have to cover all these points!**
 They're just suggestions to get you started. 
 
-Once you're finished with your post, you can create a pull request for it in this repo! It will be added as a post to the "Sussol People" folder where you found the template.
+Once you're finished with your post, you can create a pull request for it in this repo! It will be added as a post to the "TMF People" folder where you found the template.
 
